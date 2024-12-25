@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+विजय+चौरासिया+Vijay+Chaurasia!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%99%8F%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+I'm+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%AF+%E0%A4%9A%E0%A5%8C%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE+%7C+Vijay+Chaurasia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%99%8F%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+I'm+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%AF+Vijay)](https://git.io/typing-svg)
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200">
 
