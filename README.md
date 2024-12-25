@@ -2,8 +2,6 @@
 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/010/928/199/small/clear-blue-sky-hdri-360-panorama-in-seamless-projection-with-zenith-for-use-in-3d-graphics-or-game-development-as-sky-dome-or-edit-drone-shot-for-sky-replacement-photo.jpg" width="100%">
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRvcWs0czVtNm55Y2txZGxuOHY5NWxhOHdhNjg2YWU5eTdxMzVicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.webp" alt="Coder GIF" width="100%"> ##
-
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 
 |||
