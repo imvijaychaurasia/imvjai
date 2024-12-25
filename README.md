@@ -4,7 +4,7 @@
 
 ||||
 |--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200"> <iframe src="https://giphy.com/embed/3o6ZtgTTZpF8Lkh0DS" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southparkgifs-3o6ZtgTTZpF8Lkh0DS">via GIPHY</a></p> |![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical)|
+|<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200"> <img src="https://i.giphy.com/3o6ZtgTTZpF8Lkh0DS.webp" alt="Coder GIF" width="200"> |![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical)|
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
