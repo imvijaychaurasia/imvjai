@@ -4,9 +4,9 @@
 
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 
-||||
-|--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|<img src="https://i.giphy.com/3o6ZtgTTZpF8Lkh0DS.webp" alt="Coder GIF" width="200"> |![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical)|
+|||
+|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical)|
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
