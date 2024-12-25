@@ -4,7 +4,7 @@
 
 | **Project Name**                     | **Description**                                                              | **Repository Link**                                                                 |
 |--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| AWS Security Group Report/Delete    | ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)          | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical) |
+| <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200">   | ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)          | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical) |
 
 
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
