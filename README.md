@@ -5,8 +5,6 @@
 | **Project Name**                     | **Description**                                                              | **Repository Link**                                                                 |
 |--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | AWS Security Group Report/Delete    | ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)          | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical) |
-| AWS Snapshot Report/Delete          | Manages AWS snapshots by generating reports and deleting outdated ones.      | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-snapshot-reportdelete/README.md)      |
-| AWS Volume Report/Delete            | Automates the reporting and cleanup of unused AWS volumes.                   | [Repository]
 
 
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
