@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%99%8F%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+I'm+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%AF+-+Vijay)](https://git.io/typing-svg)
 
-<img src="https://i.giphy.com/3o6ZtgTTZpF8Lkh0DS.webp" alt="Coder GIF" width="600">
+<img src="https://i.giphy.com/3o6ZtgTTZpF8Lkh0DS.webp" alt="Coder GIF" width="100%">
 
 **`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 
