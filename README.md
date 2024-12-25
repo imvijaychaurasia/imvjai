@@ -1,13 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&width=435&lines=%F0%9F%99%8F%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+I'm+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%AF+-+Vijay)](https://git.io/typing-svg)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200">
+**`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 
 | **Project Name**                     | **Description**                                                              | **Repository Link**                                                                 |
 |--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200">   | ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)          | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical) |
-
-
-**`Tech Engineer | Automation Enthusiast | InfoSec Advocate`**
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to automate tasks, enhance security, and streamline processes. My journey in the tech world has equipped me with a diverse skill set, and I'm excited to share my projects and contributions with you.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
