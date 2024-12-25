@@ -2,7 +2,6 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4amQyeTl0d3V3eDM0OG5ycmxpeTBtODFvdGgyYWliNnptdXZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="200">
 
-| **Project Name**                     | **Description**                                                              | **Repository Link**                                                                 |
 |--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | AWS Security Group Report/Delete    | ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imvjai&show_icons=true&theme=radical)          | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvjai&show_icons=true&theme=radical) |
 | AWS Snapshot Report/Delete          | Manages AWS snapshots by generating reports and deleting outdated ones.      | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-snapshot-reportdelete/README.md)      |
