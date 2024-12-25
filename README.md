@@ -14,6 +14,7 @@ I'm an experienced professional with over 10 years in the IT domain, specializin
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - 📫 How to reach me: vjai.chourasia@gmail.com
 - 📝 [Proessional background](https://www.linkedin.com/in/imvijaychaurasia)
+- [![Linkedin Badge](https://img.shields.io/badge/-imvijaychaurasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvijaychaurasia/)](https://www.linkedin.com/in/imvijaychaurasia/) [![Gmail Badge](https://img.shields.io/badge/-vjai.chourasia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjai.chourasia@gmail.com)](mailto:vjai.chourasia@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@imvijaychaurasia-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/imvijaychaurasia)](https://instagram.com/imvijaychaurasia)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
