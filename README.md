@@ -12,9 +12,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to auto
 I'm an experienced professional with over 10 years in the IT domain, specializing in Information Security, Compliance Engineering, and Cloud Computing. My expertise lies in IT Compliance Operations, Security Operations, DevSecOps, and Infrastructure Management. I excel in building secure and resilient IT environments, safeguarding organizational infrastructure, and ensuring compliance with industry standards.
 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- 📫 How to reach me: vjai.chourasia@gmail.com
-- 📝 [Proessional background](https://www.linkedin.com/in/imvijaychaurasia)
-- [![Linkedin Badge](https://img.shields.io/badge/-imvijaychaurasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvijaychaurasia/)](https://www.linkedin.com/in/imvijaychaurasia/) [![Gmail Badge](https://img.shields.io/badge/-vjai.chourasia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjai.chourasia@gmail.com)](mailto:vjai.chourasia@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@imvijaychaurasia-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/imvijaychaurasia)](https://instagram.com/imvijaychaurasia)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-imvijaychaurasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvijaychaurasia/)](https://www.linkedin.com/in/imvijaychaurasia/) [![Gmail Badge](https://img.shields.io/badge/-vjai.chourasia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjai.chourasia@gmail.com)](mailto:vjai.chourasia@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@imvijaychaurasia-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/imvijaychaurasia)](https://instagram.com/imvijaychaurasia)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
