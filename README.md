@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to auto
 ## 🚀 About Me [![Linkedin Badge](https://img.shields.io/badge/-imvijaychaurasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvijaychaurasia/)](https://www.linkedin.com/in/imvijaychaurasia/) [![Gmail Badge](https://img.shields.io/badge/-vjai.chourasia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjai.chourasia@gmail.com)](mailto:vjai.chourasia@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@imvijaychaurasia-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/imvijaychaurasia)](https://instagram.com/imvijaychaurasia)
 I'm an experienced professional in the Tech domain, specializing in Information Security, Compliance Engineering, and Infrastructure Engineering. My expertise lies in IT Compliance Operations, Security Operations, DevSecOps, and Infrastructure Management.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imvjai.imvjai)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imvjai.visitor-badge.issue.1)
 
 - :dart: Life Hack: Explore :fire: and Explode :bomb: with knowledge.
 
