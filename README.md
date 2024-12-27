@@ -32,13 +32,3 @@ I'm an experienced professional in the Tech domain, specializing in Information 
 - **Open Source:** Proficient in using and implementing Open Source solutions
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
-## 📂 Projects & Contributions
-Here are some of the repositories I've been working on:
-| **Project Name**                     | **Description**                                                              | **Repository Link**                                                                 |
-|--------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| AWS Security Group Report/Delete    | Automates the reporting and deletion of unused AWS security groups.          | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-securitygroup-reportdelete/README.md) |
-| AWS Snapshot Report/Delete          | Manages AWS snapshots by generating reports and deleting outdated ones.      | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-snapshot-reportdelete/README.md)      |
-| AWS Volume Report/Delete            | Automates the reporting and cleanup of unused AWS volumes.                   | [Repository](https://github.com/imvjai/automations/blob/main/automation/AWS/aws-volume-reportdelete/README.md)        |
-| Access Management Automation        | Streamlines access management processes to enhance security.                 | [Repository](https://github.com/imvjai/automations/blob/main/automation/access_management/README.md)                 |
-| Google Workspace Audits             | Tools for auditing and securing Google Workspace environments.               | [Repository](https://github.com/imvjai/automations/blob/main/infosec/GoogleWorkSpace-Audits/README.md)               |
-| Network Vulnerability Assessment (VAPT) | Resources and scripts for conducting network VAPT.              | [Repository](https://github.com/imvjai/automations/blob/main/infosec/Network_VAPT/README.md)               |
