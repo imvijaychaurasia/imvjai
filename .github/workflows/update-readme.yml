@@ -30,50 +30,48 @@ jobs:
 
       - name: Fetch repositories and update README (Python Script)
         run: |
-          echo "
-import requests
-
-# GitHub API request
-username = 'imvjai'
-url = f'https://api.github.com/users/{username}/repos?per_page=100'
-response = requests.get(url)
-repos = response.json()
-
-# Initialize the markdown table
-table = '| Repository Name | Description | Scripts/Automation |\n'
-table += '|-----------------|-------------|--------------------|\n'
-
-# Exclude the 'imvijay' repository
-for repo in repos:
-    if repo['name'] == 'imvijay':
-        continue
-
-    # Fetch repository contents
-    repo_url = f'https://api.github.com/repos/{username}/{repo['name']}/contents'
-    repo_contents = requests.get(repo_url).json()
-
-    # Check if any folder contains a README.md
-    readme_content = ''
-    for file in repo_contents:
-        if file['name'] == 'README.md':
-            file_content = requests.get(file['download_url']).text
-            readme_content = file_content.splitlines()[0]  # Get the first line as snippet
-            break
-
-    # Add the repository info to the table
-    table += f'| [{repo['name']}]({repo['html_url']}) | {repo.get('description', 'No description')} | {readme_content} |\n'
-
-# Read the current README file
-with open('README.md', 'r') as file:
-    readme_content = file.read()
-
-# Append the table to the README
-readme_content += '\n## 🚀 Repositories List\n' + table
-
-# Write the updated README
-with open('README.md', 'w') as file:
-    file.write(readme_content)
-" > update_readme.py
+          echo 'import requests' > update_readme.py
+          echo '' >> update_readme.py
+          echo '# GitHub API request' >> update_readme.py
+          echo "username = 'imvjai'" >> update_readme.py
+          echo "url = f'https://api.github.com/users/{username}/repos?per_page=100'" >> update_readme.py
+          echo 'response = requests.get(url)' >> update_readme.py
+          echo 'repos = response.json()' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '# Initialize the markdown table' >> update_readme.py
+          echo 'table = "| Repository Name | Description | Scripts/Automation |\\n"' >> update_readme.py
+          echo 'table += "|-----------------|-------------|--------------------|\\n"' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '# Exclude the \'imvijay\' repository' >> update_readme.py
+          echo 'for repo in repos:' >> update_readme.py
+          echo '    if repo["name"] == "imvijay":' >> update_readme.py
+          echo '        continue' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '    # Fetch repository contents' >> update_readme.py
+          echo '    repo_url = f"https://api.github.com/repos/{username}/{repo["name"]}/contents"' >> update_readme.py
+          echo '    repo_contents = requests.get(repo_url).json()' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '    # Check if any folder contains a README.md' >> update_readme.py
+          echo '    readme_content = ""' >> update_readme.py
+          echo '    for file in repo_contents:' >> update_readme.py
+          echo '        if file["name"] == "README.md":' >> update_readme.py
+          echo '            file_content = requests.get(file["download_url"]).text' >> update_readme.py
+          echo '            readme_content = file_content.splitlines()[0]  # Get the first line as snippet' >> update_readme.py
+          echo '            break' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '    # Add the repository info to the table' >> update_readme.py
+          echo '    table += f"| [{repo["name"]}]({repo["html_url"]}) | {repo.get("description", "No description")} | {readme_content} |\\n"' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '# Read the current README file' >> update_readme.py
+          echo 'with open("README.md", "r") as file:' >> update_readme.py
+          echo '    readme_content = file.read()' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '# Append the table to the README' >> update_readme.py
+          echo 'readme_content += "\\n## 🚀 Repositories List\\n" + table' >> update_readme.py
+          echo '' >> update_readme.py
+          echo '# Write the updated README' >> update_readme.py
+          echo 'with open("README.md", "w") as file:' >> update_readme.py
+          echo '    file.write(readme_content)' >> update_readme.py
 
           python update_readme.py
 
