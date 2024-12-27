@@ -16,11 +16,9 @@ I'm an experienced professional in the Tech domain, specializing in Information 
 
 - :nerd_face: Upscale and Lead by Example.
 - :dart: Life Hack: Explore :fire: and Explode :bomb: with knowledge.
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🛠️ Skills & Technologies
-
 - **Programming & Scripting Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white), Google Script
 - **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white), ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white), ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 - **Infrastructure Management:** AWS Cloud, GCP, Azure, On-Premise, and DataCenter Compute
@@ -31,11 +29,7 @@ I'm an experienced professional in the Tech domain, specializing in Information 
 - **Security & Compliance:** IT Compliance (ISO, SOC2), VAPT, Cybersecurity Audits
 - **Open Source:** Proficient in using and implementing Open Source solutions
 
-
 ## 💖 Support My Work
 If my projects or code have helped you in any way, consider supporting my efforts! Scan the QR code below to make a donation:
-
+Thank you for your support! Every contribution motivates me to keep creating and sharing. 🙌
 <img src="gp-qrcode.jpg" alt="Support Me - QR Code" width="200" />
-
-Thank you for your support! Every contribution motivates me to keep creating and sharing 🙌.
-
