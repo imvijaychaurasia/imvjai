@@ -34,3 +34,10 @@ If my projects or code have helped you in any way, consider supporting my effort
 Thank you for your support! Every contribution motivates me to keep creating and sharing. 🙌
 
 <img src="gp-qrcode.jpg" alt="Support Me - QR Code" width="200" />
+
+
+## 🚀 Repositories List
+| Repository Name | Description | Scripts/Automation |
+|-----------------|-------------|--------------------|
+| [repo1](https://github.com/imvjai/repo1) | Sample repo 1 | [ReadMe Snippet] |
+| [repo2](https://github.com/imvjai/repo2) | Sample repo 2 | [ReadMe Snippet] |
