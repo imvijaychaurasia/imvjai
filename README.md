@@ -32,4 +32,5 @@ I'm an experienced professional in the Tech domain, specializing in Information 
 ## 💖 Support My Work
 If my projects or code have helped you in any way, consider supporting my efforts! Scan the QR code below to make a donation:
 Thank you for your support! Every contribution motivates me to keep creating and sharing. 🙌
+
 <img src="gp-qrcode.jpg" alt="Support Me - QR Code" width="200" />
