@@ -23,6 +23,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Disable ImageMagick (Fix for X11 error)
+        run: |
+          sudo apt-get remove --purge imagemagick
+          sudo apt-get autoremove -y
+
       - name: Fetch repositories and update README
         run: |
           import requests
@@ -40,7 +45,7 @@ jobs:
 
           # Exclude the 'imvijay' repository
           for repo in repos:
-              if repo['name'] == 'ABOUTME':
+              if repo['name'] == 'imvijay':
                   continue
 
               # Fetch repository contents
