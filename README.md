@@ -36,5 +36,7 @@ I'm an experienced professional in the Tech domain, specializing in Information 
 If you found my work helpful, consider supporting the effort! Scan the QR code below to make a donation:
 Your contributions encourage me to keep sharing valuable tools and code. Thank you! 🙏
 <img src="https://drive.google.com/file/d/1IYJiowXzqcxmc4bsyhpa_pt4GPHpkmkS/view" alt="QR Code for Donations" width="200">
-<img src="https://drive.google.com/file/d/1IYJiowXzqcxmc4bsyhpa_pt4GPHpkmkS/view" width="900"> 
+
+
+<img src="https://drive.google.com/file/d/1IYJiowXzqcxmc4bsyhpa_pt4GPHpkmkS/view"> 
 
