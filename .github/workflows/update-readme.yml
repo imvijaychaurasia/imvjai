@@ -30,7 +30,7 @@ jobs:
 
       - name: Fetch repositories and update README (Python Script)
         run: |
-          echo '
+          cat << 'EOF' > update_readme.py
 import requests
 
 # GitHub API request
@@ -73,7 +73,7 @@ readme_content += "\\n## 🚀 Repositories List\\n" + table
 # Write the updated README
 with open("README.md", "w") as file:
     file.write(readme_content)
-' > update_readme.py
+EOF
 
           python update_readme.py
 
