@@ -30,5 +30,11 @@ I'm an experienced professional in the Tech domain, specializing in Information 
 - **Networking & Monitoring:** Network Monitoring Tools, Security Surveillance Systems
 - **Security & Compliance:** IT Compliance (ISO, SOC2), VAPT, Cybersecurity Audits
 - **Open Source:** Proficient in using and implementing Open Source solutions
+- 
+
+## 🙌 Support My Work
+If you found my work helpful, consider supporting the effort! Scan the QR code below to make a donation:
+Your contributions encourage me to keep sharing valuable tools and code. Thank you! 🙏
+<img src="https://static.vecteezy.com/system/resources/previews/011/022/655/non_2x/qr-code-with-scan-me-text-free-vector.jpg" alt="QR Code for Donations" width="200">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
