@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-22.04  # Use Ubuntu 24.04
+    runs-on: ubuntu-24.04  # Use Ubuntu 24.04
 
     steps:
       - name: Checkout repository
@@ -28,51 +28,54 @@ jobs:
           sudo apt-get remove --purge imagemagick
           sudo apt-get autoremove -y
 
-      - name: Fetch repositories and update README
+      - name: Fetch repositories and update README (Python Script)
         run: |
-          import requests
-          import os
+          echo "
+import requests
 
-          # GitHub API request
-          username = "imvjai"
-          url = f"https://api.github.com/users/{username}/repos?per_page=100"
-          response = requests.get(url)
-          repos = response.json()
+# GitHub API request
+username = 'imvjai'
+url = f'https://api.github.com/users/{username}/repos?per_page=100'
+response = requests.get(url)
+repos = response.json()
 
-          # Initialize the markdown table
-          table = "| Repository Name | Description | Scripts/Automation |\n"
-          table += "|-----------------|-------------|--------------------|\n"
+# Initialize the markdown table
+table = '| Repository Name | Description | Scripts/Automation |\n'
+table += '|-----------------|-------------|--------------------|\n'
 
-          # Exclude the 'imvijay' repository
-          for repo in repos:
-              if repo['name'] == 'imvijay':
-                  continue
+# Exclude the 'imvijay' repository
+for repo in repos:
+    if repo['name'] == 'imvijay':
+        continue
 
-              # Fetch repository contents
-              repo_url = f"https://api.github.com/repos/{username}/{repo['name']}/contents"
-              repo_contents = requests.get(repo_url).json()
+    # Fetch repository contents
+    repo_url = f'https://api.github.com/repos/{username}/{repo['name']}/contents'
+    repo_contents = requests.get(repo_url).json()
 
-              # Check if any folder contains a README.md
-              readme_content = ""
-              for file in repo_contents:
-                  if file['name'] == 'README.md':
-                      file_content = requests.get(file['download_url']).text
-                      readme_content = file_content.splitlines()[0]  # Get the first line as snippet
-                      break
+    # Check if any folder contains a README.md
+    readme_content = ''
+    for file in repo_contents:
+        if file['name'] == 'README.md':
+            file_content = requests.get(file['download_url']).text
+            readme_content = file_content.splitlines()[0]  # Get the first line as snippet
+            break
 
-              # Add the repository info to the table
-              table += f"| [{repo['name']}]({repo['html_url']}) | {repo.get('description', 'No description')} | {readme_content} |\n"
+    # Add the repository info to the table
+    table += f'| [{repo['name']}]({repo['html_url']}) | {repo.get('description', 'No description')} | {readme_content} |\n'
 
-          # Read the current README file
-          with open("README.md", "r") as file:
-              readme_content = file.read()
+# Read the current README file
+with open('README.md', 'r') as file:
+    readme_content = file.read()
 
-          # Append the table to the README
-          readme_content += "\n## 🚀 Repositories List\n" + table
+# Append the table to the README
+readme_content += '\n## 🚀 Repositories List\n' + table
 
-          # Write the updated README
-          with open("README.md", "w") as file:
-              file.write(readme_content)
+# Write the updated README
+with open('README.md', 'w') as file:
+    file.write(readme_content)
+" > update_readme.py
+
+          python update_readme.py
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
