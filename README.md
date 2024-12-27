@@ -39,4 +39,4 @@ Thank you for your support! Every contribution motivates me to keep creating and
 ## 🚀 Repositories List
 | Repository Name | Description | Scripts/Automation |
 |-----------------|-------------|--------------------|
-| [Automations]([https://github.com/imvjai/repo1](https://github.com/imvjai/automations)) | Sample repo 1 | [ReadMe Snippet] |
+| [Automations](https://github.com/imvjai/automations) | Sample repo 1 | [ReadMe Snippet] |
